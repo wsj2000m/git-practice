@@ -1,2 +1,4 @@
 # git-practice
-git 실습
+git과 github 실습
+
+-작성일자:  25.11.27.
